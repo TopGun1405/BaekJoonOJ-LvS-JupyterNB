@@ -1,2 +1,2 @@
-# BaekJoonOJ-LvS-Python
+# BaekJoonOJ-LvS-JupyterNB
  solve-step-by-step
